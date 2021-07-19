@@ -1,2 +1,2 @@
 # Python-Turtle-applications
-these are few basic python GUI applications.
+these are few basic python turtle based GUI applications.
